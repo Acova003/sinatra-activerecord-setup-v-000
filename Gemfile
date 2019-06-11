@@ -12,4 +12,6 @@ gem 'sinatra-activerecord'
 group :development do
 	gem 'shotgun'
 	gem 'pry'
+	gem 'tux'
+	gem 'sqlite 3', '~> 1.3.6'
 end
