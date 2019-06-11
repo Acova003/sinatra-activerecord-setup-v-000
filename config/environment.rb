@@ -1,5 +1,4 @@
-require './config/environment'
-require 'sinatra/activerecord/rake'
+
 ENV['SINATRA_ENV'] ||= "development"
 
 require 'bundler/setup'
